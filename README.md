@@ -5,7 +5,9 @@ Virtual Internship - Android Application Development Using Kotlin
 
 #Demo Video
 
-[Grocery app demo video.zip](https://github.com/smartinternz02/SI-GuidedProject-56830-1660823790/files/9639316/Grocery.app.demo.video.zip)
+
+https://user-images.githubusercontent.com/76243805/192113562-b72c4bee-631a-489c-b1b9-4a569397e767.mp4
+
 
 
 #Screenshots
